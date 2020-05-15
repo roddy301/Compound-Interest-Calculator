@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Compound Interest Calculator</string>
+    <string-array name="spinnerValue">
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Semi Annually</item>
+        <item>Yearly</item>
+    </string-array>
+
+    <string name="years_to_grow">Years To Grow</string>
+
+    <string name="years">1 Years</string>
+</resources>
